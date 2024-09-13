@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>world</name>
+  <name>damc_world</name>
   <version>0.0.0</version>
   <description>The world package</description>
 
