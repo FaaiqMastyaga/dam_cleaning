@@ -1,7 +1,7 @@
 <?xml version='1.0'?>
 <sdf version='1.7'>
   <model name='obstacle'>
-    <link name='link_3'>
+    <link name='link_0'>
       <inertial>
         <mass>1</mass>
         <inertia>
@@ -24,7 +24,7 @@
         <geometry>
           <cylinder>
             <radius>0.5</radius>
-            <length>3</length>
+            <length>2</length>
           </cylinder>
         </geometry>
         <material>
