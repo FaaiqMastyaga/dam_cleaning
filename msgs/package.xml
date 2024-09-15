@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>msgs</name>
+  <name>damc_msgs</name>
   <version>0.0.0</version>
   <description>The msgs package</description>
 
