@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+    <node pkg="damc_strategy" type="coverage_planner.py" name="coverage_planner" output="screen"/>
+
+</launch>
